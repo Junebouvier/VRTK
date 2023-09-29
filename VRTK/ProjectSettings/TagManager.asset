@@ -10,6 +10,8 @@ TagManager:
   - sarten
   - Tetera1
   - Tetera2
+  - Vidrio1
+  - Vidrio2
   layers:
   - Default
   - TransparentFX
